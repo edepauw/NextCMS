@@ -21,13 +21,12 @@ ReactCMS est un projet visant à créer une interface entre Strapi (un CMS headl
 *(Vous pouvez ajouter ici des captures d'écran du projet. Décrivez chaque image pour expliquer ce qui est montré.)*
 
 1. **Dashboard Strapi** - Interface principale du CMS.
-   ![Dashboard Strapi](path_to_image_1.png)
+   ![Dashboard Strapi](https://github.com/warbam/ReactCMS/assets/52237626/bf2b5930-c0d2-408c-a312-bfb5c157f12f)
 
-2. **Catalogue de Blocks** - Liste des blocks disponibles pour création rapide.
-   ![Catalogue de Blocks](path_to_image_2.png)
+   
+2. **Interface Utilisateur** - Affichage des blocks dans l'application React.
+   ![landing page](https://github.com/warbam/ReactCMS/assets/52237626/e34f0d61-ee3d-489d-b32e-7098592da1dd)
 
-3. **Interface Utilisateur** - Affichage des blocks dans l'application React.
-   ![Interface Utilisateur](path_to_image_3.png)
 
 ## ⚠️ Projet Privé
 Ce projet est privé et n'est pas destiné à être partagé publiquement pour l'instant. Ce dépôt contient uniquement le README afin de prouver l'existence du projet.
