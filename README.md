@@ -8,6 +8,7 @@ ReactCMS est un projet visant à créer une interface entre Strapi (un CMS headl
 - Générer automatiquement une base de code pour un composant React lorsque un nouveau block est créé dans le dashboard Strapi
 - Créer un catalogue de blocks sur le dashboard pour repartir d'une base de code existante
 - Modifier l'interface existante pour l'adapter à l'affichage des blocks
+- Créer de nouveaux input adapter a la customisation d'element Frontend
 
 ## 🛠️ Technologies Utilisées
 - **Next.js** 🖥️
