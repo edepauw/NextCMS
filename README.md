@@ -1,4 +1,4 @@
-# ReactCMS 🚀
+# NextCMS 🚀
 
 ## 📝 Description
 ReactCMS est un projet visant à créer une interface entre Strapi (un CMS headless) et React afin de faciliter l'utilisation et la collaboration entre développeurs, intégrateurs et clients.
